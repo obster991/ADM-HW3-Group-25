@@ -4,3 +4,10 @@ This repository contains:
 - main.ipynb, notebook jupiter file in which are shown only the functions to answer the requests, their outputs (where possible) and an explanation of what they do. 
 
 **nbviewer link**: https://nbviewer.org/github/obster991/ADM-HW3-Group-25/blob/main/main.ipynb
+
+Members:
+- Andrea Potì
+- Luca Palumbo
+- Antonella Cruoglio
+- Alice Palmucci
+- Omar Imanov
